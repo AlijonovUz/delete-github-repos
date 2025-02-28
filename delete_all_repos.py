@@ -1,7 +1,7 @@
 import requests
 
 GITHUB_TOKEN = "Github TOKEN"
-USERNAME = "AlijonovUz"
+USERNAME = "Github USERNAME"
 
 BASE_URL = "https://api.github.com"
 
